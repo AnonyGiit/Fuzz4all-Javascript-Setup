@@ -1,2 +1,2 @@
 # Fuzz4all-Javascript-Setup
-Code changes to make Fuzz4All support JavaScript.
+The main changes made to support JavaScript Fuzzing in Fuzz4All
